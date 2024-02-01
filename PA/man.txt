@@ -1,0 +1,24 @@
+Contacts actions:
+add_contact: Adds contact to the address book
+print_contacts: Prints all the contacts in the contact book
+add_email: Adds email to the existing contact
+add_birthday: Adds birthday to the existing contact
+add_phone: Adds new phone number to the existing contact
+delete_phone: Delete phone number from the existing contact
+delete_contact: Deletes the existing contact
+search_contacts: Searches contacts in the address book
+delete_email: Deletes email from the existing contact
+edit_name: Edits the existing contact's name
+search_birthdays: Search for contacts whose birthday will be in the coming days (the number of days is set)
+
+Notes actions:
+add_note: Adds note to the existing contact
+print_notes: Prints all the notes
+delete_note: Deletes the existing note
+edit_note: Edits the existing note
+search_notes: Searches notes in the contacts by the notes text
+search_notes: Searches notes in the contacts by the tag(s)
+
+Miscellaneous actions:
+sort_files: Sorts files in the file's directory
+exit: Exit program
